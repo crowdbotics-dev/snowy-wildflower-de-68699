@@ -1,0 +1,3 @@
+rootProject.name = 'snowy_wildflower_de_68699'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
